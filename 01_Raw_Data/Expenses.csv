@@ -1,0 +1,190 @@
+Expense_ID,Expense_Date,Department_ID,Expense_Category,Expense_Description,Expense_Amount
+EXP-1001,2025-01-25,DEPT-01,Staff Salaries,Departmental technician & support wages,16600.0
+EXP-1002,2025-01-11,DEPT-01,Supplies,"Disposable syringes, gloves & surgical consumables",6630.0
+EXP-1003,2025-01-25,DEPT-02,Staff Salaries,,25800.0
+EXP-1004,2025-01-13,DEPT-02,Supplies,"Disposable syringes, gloves & surgical consumables",8920.0
+EXP-1005,2025-01-25,DEPT-03,Staff Salaries,Departmental technician & support wages,13200.0
+EXP-1006,2025-01-18,DEPT-03,Supplies,"Disposable syringes, gloves & surgical consumables",4140.0
+EXP-1007,2025-01-07,DEPT-03,Utilities,"Electricity, HVAC & medical refrigeration",3180.0
+EXP-1008,2025-01-25,DEPT-04,Staff Salaries,Nursing & paramedical monthly payroll,16300.0
+EXP-1009,2025-01-18,DEPT-04,Supplies,Sanitization & sterilization consumables,5580.0
+EXP-1010,2025-01-25,DEPT-04,Utilities,High-speed clinic internet & EHR server hosting,4760.0
+EXP-1011,2025-01-25,DEPT-05,Staff Salaries,,21000.0
+EXP-1012,2025-01-16,DEPT-05,Supplies,"Disposable syringes, gloves & surgical consumables",8740.0
+EXP-1013,2025-01-05,DEPT-05,Utilities,"Electricity, HVAC & medical refrigeration",6960.0
+EXP-1014,2025-01-25,DEPT-06,Staff Salaries,Departmental technician & support wages,18400.0
+EXP-1015,2025-01-16,DEPT-06,Supplies ,"Diagnostic reagents, ECG paper & dressings",5790.0
+EXP-1016,2025-01-15,DEPT-06,Utilities,"Electricity, HVAC & medical refrigeration",4650.0
+EXP-1017,2025-02-25,DEPT-01,Staff Salaries,Nursing & paramedical monthly payroll,16500.0
+EXP-1018,2025-02-16,DEPT-01,Supplies,"Disposable syringes, gloves & surgical consumables",5810.0
+EXP-1019,2025-02-13,DEPT-01,Utilities,"Electricity, HVAC & medical refrigeration",4580.0
+EXP-1020,2025-02-25,DEPT-02,Staff Salaries ,Departmental technician & support wages,24700.0
+EXP-1021,2025-02-17,DEPT-02,Supplies,Sanitization & sterilization consumables,8960.0
+EXP-1022,2025-02-07,DEPT-02,Other,Insurance & compliance licensing fees,3480.0
+EXP-1023,2025-02-25,DEPT-03,Staff Salaries,Front-desk & administrative staff salaries,13400.0
+EXP-1024,2025-02-20,DEPT-03,Supplies,Sanitization & sterilization consumables,4470.0
+EXP-1025,2025-02-25,DEPT-04,Staff Salaries,Front-desk & administrative staff salaries,15700.0
+EXP-1026,2025-02-19,DEPT-04, Supplies,"Disposable syringes, gloves & surgical consumables",5910.0
+EXP-1027,2025-02-25,DEPT-05,Staff Salaries,Nursing & paramedical monthly payroll,21400.0
+EXP-1028,2025-02-20,DEPT-05,Supplies,"Disposable syringes, gloves & surgical consumables",7600.0
+EXP-1029,2025-02-25,DEPT-06,Staff Salaries,Nursing & paramedical monthly payroll,19100.0
+EXP-1030,2025-02-13,DEPT-06,Supplies,"Disposable syringes, gloves & surgical consumables",5500.0
+EXP-1031,2025-02-16,DEPT-06,Equipment,,8660.0
+EXP-1032,2025-03-25,DEPT-01,Staff Salaries,Front-desk & administrative staff salaries,16300.0
+EXP-1033,2025-03-15,DEPT-01,Supplies,"Disposable syringes, gloves & surgical consumables",4920.0
+EXP-1034,2025-03-25,DEPT-02,Staff Salaries,Departmental technician & support wages,26300.0
+EXP-1035,2025-03-20,DEPT-02,Supplies,Sanitization & sterilization consumables,9980.0
+EXP-1036,2025-03-22,DEPT-02,Equipment,Examination table & diagnostic kit upgrade,12390.0
+EXP-1037,2025-03-25,DEPT-03,Staff Salaries,Nursing & paramedical monthly payroll,13400.0
+EXP-1038,2025-03-12,DEPT-03,Supplies,"Diagnostic reagents, ECG paper & dressings",4050.0
+EXP-1039,2025-03-25,DEPT-03,Other,Insurance & compliance licensing fees,2340.0
+EXP-1040,2025-03-25,DEPT-04,Staff Salaries,Departmental technician & support wages,15700.0
+EXP-1041,2025-03-13,DEPT-04,Supplies,Sanitization & sterilization consumables,4720.0
+EXP-1042,2025-03-06,DEPT-04,Maintenance,AC & air filtration preventive servicing,3140.0
+EXP-1043,2025-03-25,DEPT-05,Staff Salaries,Nursing & paramedical monthly payroll,21100.0
+EXP-1044,2025-03-15,DEPT-05,Supplies,"Diagnostic reagents, ECG paper & dressings",8590.0
+EXP-1045,2025-03-23,DEPT-05, Utilities,High-speed clinic internet & EHR server hosting,5610.0
+EXP-1046,2025-03-25,DEPT-06,Staff Salaries,Front-desk & administrative staff salaries,19200.0
+EXP-1047,2025-03-13,DEPT-06,Supplies,Sanitization & sterilization consumables,6070.0
+EXP-1048,2025-03-25,DEPT-06,Other,Local patient awareness & health camp printouts,3050.0
+EXP-1049,2025-04-25,DEPT-01,Staff Salaries,Nursing & paramedical monthly payroll,16900.0
+EXP-1050,2025-04-14,DEPT-01,Supplies,"Disposable syringes, gloves & surgical consumables",5150.0
+EXP-1051,2025-04-13,DEPT-01, Equipment,Examination table & diagnostic kit upgrade,8710.0
+EXP-1052,2025-04-25,DEPT-02,Staff Salaries,Departmental technician & support wages,25900.0
+EXP-1053,2025-04-16,DEPT-02,Supplies,Sanitization & sterilization consumables,9910.0
+EXP-1054,2025-04-09,DEPT-02,Utilities,High-speed clinic internet & EHR server hosting,8120.0
+EXP-1055,2025-04-25,DEPT-03,Staff Salaries,Front-desk & administrative staff salaries,13800.0
+EXP-1056,2025-04-11,DEPT-03,supplies,"Disposable syringes, gloves & surgical consumables",5340.0
+EXP-1057,2025-04-25,DEPT-04,Staff Salaries,Nursing & paramedical monthly payroll,15100.0
+EXP-1058,2025-04-20,DEPT-04,Supplies,"Disposable syringes, gloves & surgical consumables",4850.0
+EXP-1059,2025-04-25,DEPT-05,Staff Salaries,Front-desk & administrative staff salaries,21100.0
+EXP-1060,2025-04-19,DEPT-05,Supplies,"Disposable syringes, gloves & surgical consumables",7120.0
+EXP-1061,2025-04-19,DEPT-05,Equipment,Examination table & diagnostic kit upgrade,9290.0
+EXP-1062,2025-04-25,DEPT-06,Staff Salaries,Front-desk & administrative staff salaries,18500.0
+EXP-1063,2025-04-18,DEPT-06,supplies,"Disposable syringes, gloves & surgical consumables",7190.0
+EXP-1064,2025-05-25,DEPT-01,Staff Salaries,Nursing & paramedical monthly payroll,16600.0
+EXP-1065,2025-05-20,DEPT-01,Supplies,Sanitization & sterilization consumables,5340.0
+EXP-1066,2025-05-25,DEPT-02,Staff Salaries,Departmental technician & support wages,25300.0
+EXP-1067,2025-05-15,DEPT-02,Supplies,"Disposable syringes, gloves & surgical consumables",7610.0
+EXP-1068,2025-05-05,DEPT-02,Utilities,High-speed clinic internet & EHR server hosting,7870.0
+EXP-1069,2025-05-25,DEPT-03,Staff Salaries,Departmental technician & support wages,13100.0
+EXP-1070,2025-05-14,DEPT-03,Supplies,Sanitization & sterilization consumables,5440.0
+EXP-1071,2025-05-25,DEPT-04,Staff Salaries,Departmental technician & support wages,16200.0
+EXP-1072,2025-05-11,DEPT-04, Supplies,Sanitization & sterilization consumables,4860.0
+EXP-1073,2025-05-24,DEPT-04,Equipment,Diagnostic device calibration & lease,5620.0
+EXP-1074,2025-05-25,DEPT-05,Staff Salaries,Nursing & paramedical monthly payroll,22700.0
+EXP-1075,2025-05-15,DEPT-05,Supplies,"Disposable syringes, gloves & surgical consumables",8080.0
+EXP-1076,2025-05-21,DEPT-05,Maintenance,AC & air filtration preventive servicing,4790.0
+EXP-1077,2025-05-25,DEPT-06,Staff Salaries,Departmental technician & support wages,19400.0
+EXP-1078,2025-05-15,DEPT-06,Supplies,"Diagnostic reagents, ECG paper & dressings",5560.0
+EXP-1079,2025-05-14,DEPT-06,Other,Staff CME training & certification,2860.0
+EXP-1080,2025-06-25,DEPT-01,Staff Salaries,Nursing & paramedical monthly payroll,16200.0
+EXP-1081,2025-06-13,DEPT-01,Supplies,Sanitization & sterilization consumables,6460.0
+EXP-1082,2025-06-25,DEPT-02,Staff Salaries,Nursing & paramedical monthly payroll,25500.0
+EXP-1083,2025-06-17,DEPT-02, Supplies,"Disposable syringes, gloves & surgical consumables",8150.0
+EXP-1084,2025-06-25,DEPT-03,Staff Salaries,Departmental technician & support wages,13100.0
+EXP-1085,2025-06-12,DEPT-03,Supplies,"Disposable syringes, gloves & surgical consumables",4390.0
+EXP-1086,2025-06-25,DEPT-04,Staff Salaries,Departmental technician & support wages,15500.0
+EXP-1087,2025-06-12,DEPT-04,Supplies ,"Diagnostic reagents, ECG paper & dressings",5810.0
+EXP-1088,2025-06-11,DEPT-04,Equipment,Examination table & diagnostic kit upgrade,7290.0
+EXP-1089,2025-06-25,DEPT-05,Staff Salaries,,22900.0
+EXP-1090,2025-06-13,DEPT-05,Supplies,Sanitization & sterilization consumables,7490.0
+EXP-1091,2025-06-25,DEPT-05,Other,Local patient awareness & health camp printouts,3020.0
+EXP-1092,2025-06-25,DEPT-06,Staff Salaries,Front-desk & administrative staff salaries,19300.0
+EXP-1093,2025-06-18,DEPT-06,Supplies,"Diagnostic reagents, ECG paper & dressings",7040.0
+EXP-1094,2025-06-15,DEPT-06,Utilities,"Electricity, HVAC & medical refrigeration",5420.0
+EXP-1095,2025-07-25,DEPT-01,Staff Salaries,Departmental technician & support wages,17200.0
+EXP-1096,2025-07-18,DEPT-01,Supplies,"Disposable syringes, gloves & surgical consumables",6610.0
+EXP-1097,2025-07-27,DEPT-01,Utilities,High-speed clinic internet & EHR server hosting,4740.0
+EXP-1098,2025-07-25,DEPT-02,Staff Salaries,Nursing & paramedical monthly payroll,25000.0
+EXP-1099,2025-07-13,DEPT-02,Supplies,"Disposable syringes, gloves & surgical consumables",8360.0
+EXP-1100,2025-07-25,DEPT-03,Staff Salaries,Front-desk & administrative staff salaries,13100.0
+EXP-1101,2025-07-11,DEPT-03,Supplies,Sanitization & sterilization consumables,4540.0
+EXP-1102,2025-07-11,DEPT-03,Maintenance,IT & billing terminal hardware maintenance,2870.0
+EXP-1103,2025-07-25,DEPT-04,Staff Salaries,Nursing & paramedical monthly payroll,15500.0
+EXP-1104,2025-07-19,DEPT-04,Supplies,Sanitization & sterilization consumables,6230.0
+EXP-1105,2025-07-18,DEPT-04,Maintenance,AC & air filtration preventive servicing,3640.0
+EXP-1106,2025-07-25,DEPT-05,Staff Salaries,Nursing & paramedical monthly payroll,21500.0
+EXP-1107,2025-07-11,DEPT-05,Supplies,Sanitization & sterilization consumables,8430.0
+EXP-1108,2025-07-19,DEPT-05,Equipment,Examination table & diagnostic kit upgrade,10650.0
+EXP-1109,2025-07-25,DEPT-06,Staff Salaries,Nursing & paramedical monthly payroll,18400.0
+EXP-1110,2025-07-20,DEPT-06,Supplies,Sanitization & sterilization consumables,6400.0
+EXP-1111,2025-08-25,DEPT-01,Staff Salaries,Nursing & paramedical monthly payroll,16500.0
+EXP-1112,2025-08-10,DEPT-01,Supplies,"Diagnostic reagents, ECG paper & dressings",5880.0
+EXP-1113,2025-08-25,DEPT-02,staff salaries,Nursing & paramedical monthly payroll,26200.0
+EXP-1114,2025-08-13,DEPT-02,Supplies,"Disposable syringes, gloves & surgical consumables",10960.0
+EXP-1115,2025-08-18,DEPT-02,Equipment,Diagnostic device calibration & lease,11650.0
+EXP-1116,2025-08-25,DEPT-03,Staff Salaries,Front-desk & administrative staff salaries,14100.0
+EXP-1117,2025-08-17,DEPT-03,Supplies,"Disposable syringes, gloves & surgical consumables",5930.0
+EXP-1118,2025-08-25,DEPT-04,Staff Salaries,Nursing & paramedical monthly payroll,15300.0
+EXP-1119,2025-08-17,DEPT-04,Supplies,Sanitization & sterilization consumables,7020.0
+EXP-1120,2025-08-22,DEPT-04,Maintenance,AC & air filtration preventive servicing,3200.0
+EXP-1121,2025-08-25,DEPT-05,Staff Salaries,Nursing & paramedical monthly payroll,22700.0
+EXP-1122,2025-08-13,DEPT-05,Supplies,"Disposable syringes, gloves & surgical consumables",9840.0
+EXP-1123,2025-08-17,DEPT-05,Equipment,Diagnostic device calibration & lease,9030.0
+EXP-1124,2025-08-25,DEPT-06,Staff Salaries,Nursing & paramedical monthly payroll,18200.0
+EXP-1125,2025-08-16,DEPT-06,Supplies,"Disposable syringes, gloves & surgical consumables",6780.0
+EXP-1126,2025-09-25,DEPT-01,Staff Salaries,,16700.0
+EXP-1127,2025-09-17,DEPT-01,Supplies,"Diagnostic reagents, ECG paper & dressings",6370.0
+EXP-1128,2025-09-22,DEPT-01,Other,Insurance & compliance licensing fees,3060.0
+EXP-1129,2025-09-25,DEPT-02,Staff Salaries,Departmental technician & support wages,24000.0
+EXP-1130,2025-09-17,DEPT-02,Supplies,"Disposable syringes, gloves & surgical consumables",8670.0
+EXP-1131,2025-09-06,DEPT-02,Utilities,High-speed clinic internet & EHR server hosting,6830.0
+EXP-1132,2025-09-25,DEPT-03,Staff Salaries,Departmental technician & support wages,13300.0
+EXP-1133,2025-09-18,DEPT-03,Supplies,"Disposable syringes, gloves & surgical consumables",4090.0
+EXP-1134,2025-09-25,DEPT-04,Staff Salaries,Nursing & paramedical monthly payroll,15500.0
+EXP-1135,2025-09-10,DEPT-04,Supplies,Sanitization & sterilization consumables,6200.0
+EXP-1136,2025-09-21,DEPT-04,Other,Staff CME training & certification,2350.0
+EXP-1137,2025-09-25,DEPT-05,Staff Salaries,Nursing & paramedical monthly payroll,22100.0
+EXP-1138,2025-09-18,DEPT-05,Supplies,"Disposable syringes, gloves & surgical consumables",8070.0
+EXP-1139,2025-09-25,DEPT-06,Staff Salaries,Nursing & paramedical monthly payroll,18700.0
+EXP-1140,2025-09-19,DEPT-06,Supplies,"Disposable syringes, gloves & surgical consumables",7500.0
+EXP-1141,2025-10-25,DEPT-01,Staff Salaries,,17500.0
+EXP-1142,2025-10-16,DEPT-01,Supplies,"Disposable syringes, gloves & surgical consumables",5280.0
+EXP-1143,2025-10-25,DEPT-02,Staff Salaries,Departmental technician & support wages,25200.0
+EXP-1144,2025-10-13,DEPT-02,Supplies,Sanitization & sterilization consumables,8070.0
+EXP-1145,2025-10-18,DEPT-02,Equipment,Examination table & diagnostic kit upgrade,10180.0
+EXP-1146,2025-10-25,DEPT-03,Staff Salaries,Departmental technician & support wages,13000.0
+EXP-1147,2025-10-19,DEPT-03,Supplies,Sanitization & sterilization consumables,4850.0
+EXP-1148,2025-10-26,DEPT-03,Utilities,High-speed clinic internet & EHR server hosting,3830.0
+EXP-1149,2025-10-25,DEPT-04, Staff Salaries,Front-desk & administrative staff salaries,15100.0
+EXP-1150,2025-10-13,DEPT-04,Supplies,"Diagnostic reagents, ECG paper & dressings",5000.0
+EXP-1151,2025-10-14,DEPT-04,Maintenance,Interior upkeep & plumbing repairs,3640.0
+EXP-1152,2025-10-25,DEPT-05,Staff Salaries,Front-desk & administrative staff salaries,21500.0
+EXP-1153,2025-10-11,DEPT-05,Supplies,"Disposable syringes, gloves & surgical consumables",6670.0
+EXP-1154,2025-10-08,DEPT-05,Other,Staff CME training & certification,3510.0
+EXP-1155,2025-10-25,DEPT-06,Staff Salaries,Departmental technician & support wages,19800.0
+EXP-1156,2025-10-13,DEPT-06,Supplies,,5920.0
+EXP-1157,2025-10-07,DEPT-06,Other,Staff CME training & certification,3220.0
+EXP-1158,2025-11-25,DEPT-01,Staff Salaries,Front-desk & administrative staff salaries,17200.0
+EXP-1159,2025-11-14,DEPT-01,Supplies,"Disposable syringes, gloves & surgical consumables",6040.0
+EXP-1160,2025-11-14,DEPT-01,Equipment,Examination table & diagnostic kit upgrade,8030.0
+EXP-1161,2025-11-25,DEPT-02,Staff Salaries,Departmental technician & support wages,24900.0
+EXP-1162,2025-11-18,DEPT-02,Supplies,"Disposable syringes, gloves & surgical consumables",10370.0
+EXP-1163,2025-11-25,DEPT-03,Staff Salaries,Departmental technician & support wages,13800.0
+EXP-1164,2025-11-14,DEPT-03,Supplies,Sanitization & sterilization consumables,5450.0
+EXP-1165,2025-11-13,DEPT-03,Other,Staff CME training & certification,1840.0
+EXP-1166,2025-11-25,DEPT-04,Staff Salaries,Nursing & paramedical monthly payroll,16300.0
+EXP-1167,2025-11-18,DEPT-04,Supplies,"Disposable syringes, gloves & surgical consumables",5840.0
+EXP-1168,2025-11-27,DEPT-04,Equipment,ECG / Ultrasound probe maintenance & leasing,6100.0
+EXP-1169,2025-11-25,DEPT-05,Staff Salaries,Nursing & paramedical monthly payroll,21100.0
+EXP-1170,2025-11-20,DEPT-05,Supplies,Sanitization & sterilization consumables,8960.0
+EXP-1171,2025-11-25,DEPT-06,Staff Salaries,,19200.0
+EXP-1172,2025-11-17,DEPT-06,Supplies,"Diagnostic reagents, ECG paper & dressings",6250.0
+EXP-1173,2025-12-25,DEPT-01,Staff Salaries,Nursing & paramedical monthly payroll,16800.0
+EXP-1174,2025-12-11,DEPT-01,Supplies,Sanitization & sterilization consumables,6020.0
+EXP-1175,2025-12-05,DEPT-01,Utilities,Water supply & biomedical waste disposal,4960.0
+EXP-1176,2025-12-25,DEPT-02,Staff Salaries,Nursing & paramedical monthly payroll,24400.0
+EXP-1177,2025-12-20,DEPT-02,Supplies,"Diagnostic reagents, ECG paper & dressings",10570.0
+EXP-1178,2025-12-27,DEPT-02,Equipment,ECG / Ultrasound probe maintenance & leasing,10610.0
+EXP-1179,2025-12-25,DEPT-03,Staff Salaries,Departmental technician & support wages,14200.0
+EXP-1180,2025-12-10,DEPT-03,Supplies,"Disposable syringes, gloves & surgical consumables",4730.0
+EXP-1181,2025-12-09,DEPT-03,Other,Insurance & compliance licensing fees,2050.0
+EXP-1182,2025-12-25,DEPT-04,Staff Salaries,Nursing & paramedical monthly payroll,15200.0
+EXP-1183,2025-12-15,DEPT-04,Supplies,Sanitization & sterilization consumables,7090.0
+EXP-1184,2025-12-06,DEPT-04,Equipment,ECG / Ultrasound probe maintenance & leasing,7930.0
+EXP-1185,2025-12-25,DEPT-05,Staff Salaries,Front-desk & administrative staff salaries,21500.0
+EXP-1186,2025-12-10,DEPT-05,Supplies,"Diagnostic reagents, ECG paper & dressings",9160.0
+EXP-1187,2025-12-08,DEPT-05,Utilities,Water supply & biomedical waste disposal,6920.0
+EXP-1188,2025-12-25,DEPT-06,Staff Salaries,Departmental technician & support wages,19000.0
+EXP-1189,2025-12-16,DEPT-06,Supplies,Sanitization & sterilization consumables,7530.0
